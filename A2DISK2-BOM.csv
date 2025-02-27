@@ -1,0 +1,18 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"SW1";"PinHeader_1x03_P2.54mm_Vertical";1;"PinHeader_1x03_P2.54mm_Vertical";;;
+2;",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,";"";50;"";;;
+3;"C10,C3,C2,C4,C11,C5,C6,C9,C1";"C_Disc_D5.0mm_W2.5mm_P5.00mm";9;"100n";;;
+4;"U6";"DIP-16_W7.62mm_Socket";1;"74LS259";;;
+5;"U8";"DIP-8_W7.62mm_Socket";1;"NE555";;;
+6;"R1,R3,R7,R6,R5";"R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal";5;"3.3k";;;
+7;"R2,R4";"R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal";2;"470";;;
+8;"C12,C8";"CP_EIA-6032-15_Kemet-U";2;"220uF";;;
+9;"Q2,Q1";"TO-92S_Wide";2;"TO-92S_Wide";;;
+10;"U1";"DIP-16_W7.62mm_Socket";1;"74LS174";;;
+11;"U3,U7";"DIP-20_W7.62mm_Socket";2;"TBP28L22";;;
+12;"U4";"DIP-14_W7.62mm_Socket";1;"74LS05";;;
+13;"H1,H2";"PinHeader_2x10_P2.54mm_Horizontal";2;"PinHeader_2x10_P2.54mm_Horizontal";;;
+14;"U5";"DIP-20_W7.62mm_Socket";1;"74LS323";;;
+15;"C7";"CP_EIA-6032-15_Kemet-U";1;"22uF";;;
+16;"R8";"R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal";1;"47k";;;
+17;"U2";"DIP-14_W7.62mm_Socket";1;"74LS132";;;
